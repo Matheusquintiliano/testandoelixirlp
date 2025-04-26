@@ -1,0 +1,12 @@
+:root {
+  --colors-colors-alias-black-white-black-100: rgba(211, 211, 214, 1);
+  --colors-colors-alias-black-white-black-200: rgba(166, 167, 173, 1);
+  --colors-colors-alias-black-white-black-800: rgba(13, 14, 20, 1);
+  --colors-colors-alias-black-white-white: rgba(255, 255, 255, 1);
+  --heading-font-family: "Inter", Helvetica;
+  --heading-font-size: 24px;
+  --heading-font-style: normal;
+  --heading-font-weight: 600;
+  --heading-letter-spacing: -0.48px;
+  --heading-line-height: 120.00000476837158%;
+}
